@@ -1,4 +1,5 @@
 jianxian.cattoy.us.kg#Clash.DNS防泄漏
+www.fish2018.us.kg#优选
 154.9.245.6:443#三网-HKG
 202.81.230.230:12345#HKG
 20.2.144.117:12000#HKG
